@@ -26,3 +26,4 @@ sl="this is it"
 nn=sl[2:4]
 print(nn)
 print(sl[:3])
+
